@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vercel/
+.DS_Store
+*.log
+.vite/
+originals/
